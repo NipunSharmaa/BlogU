@@ -1,1 +1,0 @@
-#A blogging application made using hono (to deploy serverless backends), react, tailwind and postgres.
